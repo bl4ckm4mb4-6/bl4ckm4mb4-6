@@ -3,7 +3,7 @@
 I am a University Student passionate about software development and cybersecurity. I love exploring how things work under the hood, from system resources to network security.
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python, Java, C, HTML, CSS, PHP.
+- **Languages:** Python, Java, C, HTML, CSS, PHP, SQL.
 - **Interests:** Cybersecurity, Pentesting, and Software Development.
 - **Technologies and Tools:** Linux CLI, Oracle VirtualBox, Wireshark, Cisco Packet Tracer, Windows Subsystem Linux (WSL).
 - **IDE:** VS Code, Embarcadero Dev-C++, Eclipse IDE, Arduino IDE, Android Studio, Processing.
