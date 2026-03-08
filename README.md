@@ -20,7 +20,7 @@ I am a University Student passionate about software development and cybersecurit
 
 ## 🚀 Featured Projects
 - **Shopping List App**: A mobile app built with KivyMD in Python.
-- **System Resource Monitor**: A Python-based tool compiled into a standalone executable for monitoring resources of a computer.
+- **System Resource Monitor**: A Python-based tool compiled into a standalone executable for monitoring computer resources.
 - **Flappy Bird**: A logic-heavy implementation using Pygame.
 
 ## 🛡️ Cybersecurity Journey
