@@ -1,19 +1,25 @@
 # Hi there, I'm Luigi De Santis! 👋
 
-I am a University Student passionate about software development and cybersecurity. I love exploring how things work under the hood, from system resources to network security, from automation to scripting.
+I am a Computer Science student passionate about software development and cybersecurity. I love exploring how things work under the hood, from system resources to network security, from automation to scripting.
 
 ## 🛠️ Tech Stack
-### Skills
+### Skills:
 [![Skills](https://skillicons.dev/icons?i=c,java,python,html,css,php,mysql)](https://skillicons.dev)
-### Interests
-- Cybersecurity, Pentesting, and Software Development.
+
+### Interests:
+- **Cybersecurity:** My passion is understanding how systems work and how to protect them from vulnerabilities.
+- **Pentesting:** I enjoy challenging myself by analyzing network and application security to identify weaknesses.
+- **Software Development:** I enjoy getting my hands dirty developing software and creating solutions from scratch.
+
 ### Technologies and Tools:
 - **Networking & Security:** Wireshark, Oracle VirtualBox, Cisco Packet Tracer.
 - **Environments:** Linux CLI, Windows Subsystem for Linux (WSL).
 - **Web:** Wordpress.
-### IDE 
+
+### IDE:
 [![IDE](https://skillicons.dev/icons?i=vscode,eclipse,arduino,androidstudio,processing)](https://skillicons.dev)
-### OS
+
+### OS:
 [![OS](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -22,7 +28,7 @@ I am a University Student passionate about software development and cybersecurit
 - **Basi di Linux per Hacker** – OccupyTheWeb (Hoepli).
 - **Metasploit: Guida ai penetration test** – David Kennedy, Daniel Graham, et al. (Apogeo).
 
-I follow a structured learning path focusing on system internals, network security, and exploitation frameworks.
+I follow a structured learning path focusing on system internals, network security and exploitation frameworks.
 
 ## 🚀 Featured Projects
 - **Shopping List App**: A mobile application developed with KivyMD featuring local data persistence and a responsive Material Design UI.
