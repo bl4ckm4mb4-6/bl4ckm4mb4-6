@@ -7,9 +7,10 @@ I am a Computer Science student passionate about software development and cybers
 [![Skills](https://skillicons.dev/icons?i=c,java,python,html,css,php,mysql)](https://skillicons.dev)
 
 ### Interests:
-- **Cybersecurity:** My passion is understanding how systems work and how to protect them from vulnerabilities.
-- **Pentesting:** I enjoy challenging myself by analyzing network and application security to identify weaknesses.
-- **Software Development:** I enjoy getting my hands dirty developing software and creating solutions from scratch.
+- **Cybersecurity:** I'm driven by a deep curiosity about how systems work and how to protect them from **vulnerabilities**.
+- **Pentesting:** I enjoy challenging myself by analyzing **network and application security** to identify weaknesses.
+- **Software Development:** I love getting my hands dirty developing **tools, games and apps** from scratch.
+- **Automation & Embedded Systems:** I design and build robotics and IoT solutions using **Arduino**. From radio-controlled cars to combat robots, I handle all aspects of automation. Key skills: C/C++ for Embedded, Robotics, IoT, HID Emulation.
 
 ### Technologies and Tools:
 - **Networking & Security:** Wireshark, Oracle VirtualBox, Cisco Packet Tracer.
