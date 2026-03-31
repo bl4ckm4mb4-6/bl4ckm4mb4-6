@@ -24,7 +24,7 @@ I am a Computer Science student passionate about software development and cybers
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Current Learning:
-- Deep diving into **Ethical Hacking** by Daniel Graham 📖.
+- Deep diving into **Ethical Hacking** by Daniel Graham.
 - **Basi di Linux per Hacker** – OccupyTheWeb (Hoepli).
 - **Metasploit: Guida ai penetration test** – David Kennedy, Daniel Graham, et al. (Apogeo).
 
