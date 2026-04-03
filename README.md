@@ -8,7 +8,7 @@ I am a Computer Science student passionate about software development and cybers
 
 ### Interests:
 - **Software Development:** I love getting my hands dirty developing **tools, games and apps** from scratch.
-- **Automation & Embedded Systems:** I design and build robotics and IoT solutions using **Arduino**. From radio-controlled cars to combat robots, I handle all aspects of automation. Key skills: C/C++ for Embedded, Robotics, IoT, HID Emulation.
+- **Automation & Embedded Systems:** I design and build robotics and IoT solutions using **Arduino**. From radio-controlled cars to combat robots, I handle all aspects of automation. **Key skills:** C/C++ for Embedded, Robotics, IoT, HID Emulation.
 - **Cybersecurity/Pentesting:** I'm driven by a deep curiosity about how systems work and how to protect them from **vulnerabilities**. I am currently **self-studying** how to analyze **network and application security** to identify weaknesses.
 
 ### Technologies and Tools:
