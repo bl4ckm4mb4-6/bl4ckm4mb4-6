@@ -4,7 +4,7 @@ I am a Computer Science student passionate about software development and cybers
 
 ## 🛠️ Tech Stack
 ### Skills:
-[![Skills](https://skillicons.dev/icons?i=c,java,python,html,css,php,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js,php,mysql,react,figma,wordpress)](https://skillicons.dev)
 
 ### Interests:
 - **Software Development:** I love getting my hands dirty developing **tools, games and apps** from scratch.
@@ -14,10 +14,9 @@ I am a Computer Science student passionate about software development and cybers
 ### Technologies and Tools:
 - **Networking & Security:** Wireshark, Oracle VirtualBox, Cisco Packet Tracer.
 - **Environments:** Linux CLI, Windows Subsystem for Linux (WSL).
-- **Web:** Wordpress.
 
 ### IDE:
-[![IDE](https://skillicons.dev/icons?i=vscode,eclipse,arduino,androidstudio,processing)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=vscode,eclipse,idea,arduino,androidstudio,processing)](https://skillicons.dev)
 
 ### OS:
 [![OS](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)
